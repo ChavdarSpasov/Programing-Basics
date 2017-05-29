@@ -1,0 +1,5 @@
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Trapeziod Area\bin\Debug\Trapeziod Area.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Trapeziod Area\bin\Debug\Trapeziod Area.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Trapeziod Area\bin\Debug\Trapeziod Area.pdb
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Trapeziod Area\obj\Debug\Trapeziod Area.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Trapeziod Area\obj\Debug\Trapeziod Area.pdb

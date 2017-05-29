@@ -1,0 +1,8 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\02. Flower Shop\bin\Debug\ConsoleApplication2.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\02. Flower Shop\obj\Debug\ConsoleApplication2.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\02. Flower Shop\obj\Debug\ConsoleApplication2.pdb

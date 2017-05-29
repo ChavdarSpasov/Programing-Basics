@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\PlayGround\bin\Debug\PlayGround.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\PlayGround\bin\Debug\PlayGround.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\PlayGround\bin\Debug\PlayGround.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\PlayGround\obj\Debug\PlayGround.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\PlayGround\obj\Debug\PlayGround.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\PlayGround\obj\Debug\PlayGround.pdb

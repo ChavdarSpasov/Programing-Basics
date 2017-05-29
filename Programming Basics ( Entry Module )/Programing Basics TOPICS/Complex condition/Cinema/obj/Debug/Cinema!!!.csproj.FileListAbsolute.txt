@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Cinema\bin\Debug\Cinema.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Cinema\obj\Debug\Cinema.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Cinema\obj\Debug\Cinema.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Cinema\bin\Debug\Cinema.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Cinema\bin\Debug\Cinema.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Cinema\obj\Debug\Cinema!!!.csprojResolveAssemblyReference.cache

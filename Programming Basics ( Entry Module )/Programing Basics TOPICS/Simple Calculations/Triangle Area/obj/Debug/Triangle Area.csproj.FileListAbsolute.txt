@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Triangle Area\bin\Debug\Triangle Area.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Triangle Area\bin\Debug\Triangle Area.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Triangle Area\bin\Debug\Triangle Area.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Triangle Area\obj\Debug\Triangle Area.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Triangle Area\obj\Debug\Triangle Area.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Triangle Area\obj\Debug\Triangle Area.pdb

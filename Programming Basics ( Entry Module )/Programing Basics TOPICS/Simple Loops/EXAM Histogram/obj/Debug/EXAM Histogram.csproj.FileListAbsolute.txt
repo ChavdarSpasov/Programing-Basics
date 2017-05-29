@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Histogram\bin\Debug\EXAM Histogram.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Histogram\bin\Debug\EXAM Histogram.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Histogram\bin\Debug\EXAM Histogram.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Histogram\obj\Debug\EXAM Histogram.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Histogram\obj\Debug\EXAM Histogram.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Histogram\obj\Debug\EXAM Histogram.pdb

@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.pdb

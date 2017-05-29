@@ -1,0 +1,5 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Min Number\bin\Debug\Min Number.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Min Number\bin\Debug\Min Number.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Min Number\bin\Debug\Min Number.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Min Number\obj\Debug\Min Number.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Min Number\obj\Debug\Min Number.pdb

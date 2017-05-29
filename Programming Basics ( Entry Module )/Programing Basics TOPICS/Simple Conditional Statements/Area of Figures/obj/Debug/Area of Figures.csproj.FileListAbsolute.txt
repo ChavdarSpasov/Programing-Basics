@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Area of Figures\bin\Debug\Area of Figures.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Area of Figures\bin\Debug\Area of Figures.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Area of Figures\bin\Debug\Area of Figures.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Area of Figures\obj\Debug\Area of Figures.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Area of Figures\obj\Debug\Area of Figures.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Area of Figures\obj\Debug\Area of Figures.pdb

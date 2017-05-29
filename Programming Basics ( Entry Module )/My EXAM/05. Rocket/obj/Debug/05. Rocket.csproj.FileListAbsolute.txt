@@ -1,0 +1,7 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\05. Rocket\bin\Debug\_05.Rocket.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\05. Rocket\bin\Debug\_05.Rocket.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\05. Rocket\bin\Debug\_05.Rocket.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\05. Rocket\bin\Debug\_05.Rocket.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\05. Rocket\obj\Debug\05. Rocket.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\05. Rocket\obj\Debug\_05.Rocket.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\05. Rocket\obj\Debug\_05.Rocket.pdb

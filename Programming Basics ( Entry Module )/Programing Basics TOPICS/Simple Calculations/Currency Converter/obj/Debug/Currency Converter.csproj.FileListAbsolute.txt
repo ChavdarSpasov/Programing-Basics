@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Currency Converter\bin\Debug\Currency Converter.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Currency Converter\bin\Debug\Currency Converter.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Currency Converter\bin\Debug\Currency Converter.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Currency Converter\obj\Debug\Currency Converter.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Currency Converter\obj\Debug\Currency Converter.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Currency Converter\obj\Debug\Currency Converter.pdb

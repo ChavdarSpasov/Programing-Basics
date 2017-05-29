@@ -1,0 +1,5 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Rectangle Area\bin\Debug\Rectangle Area.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Rectangle Area\bin\Debug\Rectangle Area.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Rectangle Area\obj\Debug\Rectangle Area.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Rectangle Area\obj\Debug\Rectangle Area.pdb

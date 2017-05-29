@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM POOL TUBES\bin\Debug\EXAM POOL TUBES.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM POOL TUBES\obj\Debug\EXAM POOL TUBES.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM POOL TUBES\bin\Debug\EXAM POOL TUBES.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM POOL TUBES\bin\Debug\EXAM POOL TUBES.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM POOL TUBES\obj\Debug\EXAM POOL TUBES.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM POOL TUBES\obj\Debug\EXAM POOL TUBES.pdb

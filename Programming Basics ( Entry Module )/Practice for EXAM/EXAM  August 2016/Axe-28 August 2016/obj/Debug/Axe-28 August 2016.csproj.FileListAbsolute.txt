@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Axe-28 August 2016\bin\Debug\Axe-28 August 2016.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Axe-28 August 2016\bin\Debug\Axe-28 August 2016.exe
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Axe-28 August 2016\bin\Debug\Axe-28 August 2016.pdb
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Axe-28 August 2016\obj\Debug\Axe-28 August 2016.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Axe-28 August 2016\obj\Debug\Axe-28 August 2016.exe
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Axe-28 August 2016\obj\Debug\Axe-28 August 2016.pdb

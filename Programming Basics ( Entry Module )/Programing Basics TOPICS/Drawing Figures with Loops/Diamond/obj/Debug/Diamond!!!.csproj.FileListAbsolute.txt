@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Diamond\bin\Debug\Diamond.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Diamond\obj\Debug\Diamond!!!.csprojResolveAssemblyReference.cache

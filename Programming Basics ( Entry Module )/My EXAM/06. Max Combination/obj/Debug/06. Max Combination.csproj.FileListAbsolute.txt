@@ -1,0 +1,8 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\06. Max Combination\bin\Debug\_06.Max_Combination.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\06. Max Combination\obj\Debug\_06.Max_Combination.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\06. Max Combination\obj\Debug\_06.Max_Combination.pdb

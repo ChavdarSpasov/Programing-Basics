@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM November 2016\06. Battle\bin\Debug\_06.Battle.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM November 2016\06. Battle\bin\Debug\_06.Battle.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM November 2016\06. Battle\bin\Debug\_06.Battle.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM November 2016\06. Battle\obj\Debug\_06.Battle.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM November 2016\06. Battle\obj\Debug\_06.Battle.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM November 2016\06. Battle\obj\Debug\06. Battle.csprojResolveAssemblyReference.cache

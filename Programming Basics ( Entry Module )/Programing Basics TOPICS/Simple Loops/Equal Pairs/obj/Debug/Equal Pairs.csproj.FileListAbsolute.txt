@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Equal Pairs\bin\Debug\Equal Pairs.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Equal Pairs\bin\Debug\Equal Pairs.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Equal Pairs\obj\Debug\Equal Pairs.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Loops\Equal Pairs\obj\Debug\Equal Pairs.pdb

@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Drow Ford\bin\Debug\EXAM Drow Ford.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Drow Ford\obj\Debug\EXAM Drow Ford.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Drow Ford\obj\Debug\EXAM Drow Ford.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Drow Ford\bin\Debug\EXAM Drow Ford.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Drow Ford\bin\Debug\EXAM Drow Ford.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Drow Ford\obj\Debug\EXAM Draw Fort!!!.csprojResolveAssemblyReference.cache

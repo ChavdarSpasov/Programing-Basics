@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Triangel\bin\Debug\Triangel.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Triangel\bin\Debug\Triangel.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Triangel\bin\Debug\Triangel.pdb
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Triangel\obj\Debug\Triangel.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Triangel\obj\Debug\Triangel.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Triangel\obj\Debug\Triangel.pdb

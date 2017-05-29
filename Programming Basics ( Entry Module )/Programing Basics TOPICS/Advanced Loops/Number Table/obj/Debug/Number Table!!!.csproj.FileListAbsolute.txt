@@ -1,0 +1,5 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Table\bin\Debug\Number Table.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Table\obj\Debug\Number Table.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Table\obj\Debug\Number Table.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Table\bin\Debug\Number Table.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Table\bin\Debug\Number Table.pdb

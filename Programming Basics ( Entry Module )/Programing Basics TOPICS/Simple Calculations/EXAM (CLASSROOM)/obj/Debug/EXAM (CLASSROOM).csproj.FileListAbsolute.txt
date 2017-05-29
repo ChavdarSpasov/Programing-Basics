@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\EXAM (CLASSROOM)\bin\Debug\EXAM (CLASSROOM).exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\EXAM (CLASSROOM)\bin\Debug\EXAM (CLASSROOM).exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\EXAM (CLASSROOM)\bin\Debug\EXAM (CLASSROOM).pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\EXAM (CLASSROOM)\obj\Debug\EXAM (CLASSROOM).csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\EXAM (CLASSROOM)\obj\Debug\EXAM (CLASSROOM).exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\EXAM (CLASSROOM)\obj\Debug\EXAM (CLASSROOM).pdb

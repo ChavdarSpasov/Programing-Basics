@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.pdb

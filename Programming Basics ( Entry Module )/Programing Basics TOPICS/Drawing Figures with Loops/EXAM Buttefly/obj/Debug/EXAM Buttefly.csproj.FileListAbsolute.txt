@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Buttefly\bin\Debug\EXAM Buttefly.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Buttefly\bin\Debug\EXAM Buttefly.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Buttefly\bin\Debug\EXAM Buttefly.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Buttefly\obj\Debug\EXAM Buttefly.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Buttefly\obj\Debug\EXAM Buttefly.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\EXAM Buttefly\obj\Debug\EXAM Buttefly.pdb

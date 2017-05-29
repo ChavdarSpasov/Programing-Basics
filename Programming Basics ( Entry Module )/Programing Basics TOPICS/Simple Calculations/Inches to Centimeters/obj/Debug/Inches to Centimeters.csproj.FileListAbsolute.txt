@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Inches to Centimeters\bin\Debug\Inches to Centimeters.pdb
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Inches to Centimeters\obj\Debug\Inches to Centimeters.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Inches to Centimeters\obj\Debug\Inches to Centimeters.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Calculations\Inches to Centimeters\obj\Debug\Inches to Centimeters.pdb

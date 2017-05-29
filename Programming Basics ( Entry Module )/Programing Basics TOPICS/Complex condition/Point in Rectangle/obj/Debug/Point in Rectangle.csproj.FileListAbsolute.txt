@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\Complex condition\Point in Rectangle\bin\Debug\Point in Rectangle.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in Rectangle\bin\Debug\Point in Rectangle.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in Rectangle\bin\Debug\Point in Rectangle.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in Rectangle\obj\Debug\Point in Rectangle.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in Rectangle\obj\Debug\Point in Rectangle.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in Rectangle\obj\Debug\Point in Rectangle.pdb

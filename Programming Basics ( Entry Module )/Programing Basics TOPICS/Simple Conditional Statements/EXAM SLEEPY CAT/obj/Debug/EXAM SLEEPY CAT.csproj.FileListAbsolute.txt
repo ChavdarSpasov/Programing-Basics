@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM SLEEPY CAT\bin\Debug\EXAM SLEEPY CAT.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM SLEEPY CAT\obj\Debug\EXAM SLEEPY CAT.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM SLEEPY CAT\bin\Debug\EXAM SLEEPY CAT.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM SLEEPY CAT\bin\Debug\EXAM SLEEPY CAT.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM SLEEPY CAT\obj\Debug\EXAM SLEEPY CAT.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM SLEEPY CAT\obj\Debug\EXAM SLEEPY CAT.pdb

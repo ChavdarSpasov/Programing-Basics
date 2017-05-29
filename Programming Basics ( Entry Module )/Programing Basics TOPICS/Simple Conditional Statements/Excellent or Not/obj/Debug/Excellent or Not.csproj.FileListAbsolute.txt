@@ -1,0 +1,5 @@
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent or Not\bin\Debug\Excellent or Not.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent or Not\bin\Debug\Excellent or Not.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent or Not\bin\Debug\Excellent or Not.pdb
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent or Not\obj\Debug\Excellent or Not.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent or Not\obj\Debug\Excellent or Not.pdb

@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Smart Lili\bin\Debug\EXAM Smart Lili.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Smart Lili\bin\Debug\EXAM Smart Lili.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Smart Lili\bin\Debug\EXAM Smart Lili.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Smart Lili\obj\Debug\EXAM Smart Lili.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Smart Lili\obj\Debug\EXAM Smart Lili.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM Smart Lili\obj\Debug\EXAM Smart Lili.pdb

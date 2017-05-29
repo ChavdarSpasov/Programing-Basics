@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM partition without residue\bin\Debug\EXAM partition without residue.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM partition without residue\bin\Debug\EXAM partition without residue.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM partition without residue\bin\Debug\EXAM partition without residue.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM partition without residue\obj\Debug\EXAM partition without residue.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM partition without residue\obj\Debug\EXAM partition without residue.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Loops\EXAM partition without residue\obj\Debug\EXAM partition without residue.pdb

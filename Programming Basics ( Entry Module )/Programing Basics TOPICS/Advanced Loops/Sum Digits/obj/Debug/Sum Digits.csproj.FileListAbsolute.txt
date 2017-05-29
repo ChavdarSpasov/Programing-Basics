@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.csprojResolveAssemblyReference.cache

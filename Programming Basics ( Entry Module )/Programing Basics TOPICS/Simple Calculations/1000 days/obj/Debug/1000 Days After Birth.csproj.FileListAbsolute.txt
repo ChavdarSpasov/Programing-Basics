@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Calculations\1000 days\bin\Debug\1000 days.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Calculations\1000 days\bin\Debug\1000 days.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Calculations\1000 days\bin\Debug\1000 days.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Calculations\1000 days\obj\Debug\1000 Days After Birth.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Calculations\1000 days\obj\Debug\1000 days.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Simple Calculations\1000 days\obj\Debug\1000 days.pdb

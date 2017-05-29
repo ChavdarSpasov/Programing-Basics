@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Number 0...100 to Text\obj\Debug\Number 0...100 to Text.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Number 0...100 to Text\obj\Debug\Number_0._._._100_to_Text.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Number 0...100 to Text\obj\Debug\Number_0._._._100_to_Text.pdb

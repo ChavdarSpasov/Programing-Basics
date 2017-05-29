@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM transport price\bin\Debug\EXAM transport price.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM transport price\bin\Debug\EXAM transport price.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM transport price\bin\Debug\EXAM transport price.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM transport price\obj\Debug\EXAM TRANSPORT PRICE.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM transport price\obj\Debug\EXAM transport price.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM transport price\obj\Debug\EXAM transport price.pdb

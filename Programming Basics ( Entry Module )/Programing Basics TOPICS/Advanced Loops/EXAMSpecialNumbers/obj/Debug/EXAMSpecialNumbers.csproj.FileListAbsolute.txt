@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\EXAMSpecialNumbers\bin\Debug\EXAMSpecialNumbers.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\EXAMSpecialNumbers\bin\Debug\EXAMSpecialNumbers.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\EXAMSpecialNumbers\bin\Debug\EXAMSpecialNumbers.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\EXAMSpecialNumbers\obj\Debug\EXAMSpecialNumbers.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\EXAMSpecialNumbers\obj\Debug\EXAMSpecialNumbers.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\EXAMSpecialNumbers\obj\Debug\EXAMSpecialNumbers.pdb

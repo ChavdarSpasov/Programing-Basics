@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\FVAuction\bin\Debug\FVAuction.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\FVAuction\bin\Debug\FVAuction.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\FVAuction\bin\Debug\FVAuction.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\FVAuction\obj\Debug\FVAuction.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\FVAuction\obj\Debug\FVAuction.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\FVAuction\obj\Debug\FVAuction.pdb

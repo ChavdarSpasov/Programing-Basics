@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 02. Change Tiles\bin\Debug\Problem_02.Change_Tiles.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 02. Change Tiles\bin\Debug\Problem_02.Change_Tiles.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 02. Change Tiles\bin\Debug\Problem_02.Change_Tiles.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 02. Change Tiles\obj\Debug\Problem 02. Change Tiles.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 02. Change Tiles\obj\Debug\Problem_02.Change_Tiles.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 02. Change Tiles\obj\Debug\Problem_02.Change_Tiles.pdb

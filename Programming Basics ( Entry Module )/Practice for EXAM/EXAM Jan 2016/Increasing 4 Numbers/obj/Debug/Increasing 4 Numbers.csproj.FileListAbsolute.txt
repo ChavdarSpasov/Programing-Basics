@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.exe
+D:\Chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Increasing 4 Numbers\bin\Debug\Increasing 4 Numbers.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.exe
+D:\Chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Increasing 4 Numbers\obj\Debug\Increasing 4 Numbers.pdb

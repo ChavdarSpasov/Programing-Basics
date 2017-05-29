@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point in Figure\bin\Debug\Point in Figure.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point in Figure\bin\Debug\Point in Figure.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point in Figure\bin\Debug\Point in Figure.pdb
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point in Figure\obj\Debug\Point in Figure.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point in Figure\obj\Debug\Point in Figure.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point in Figure\obj\Debug\Point in Figure.pdb

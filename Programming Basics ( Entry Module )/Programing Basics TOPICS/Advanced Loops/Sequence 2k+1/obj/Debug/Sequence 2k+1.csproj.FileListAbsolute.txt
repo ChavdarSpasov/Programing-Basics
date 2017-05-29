@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.csprojResolveAssemblyReference.cache

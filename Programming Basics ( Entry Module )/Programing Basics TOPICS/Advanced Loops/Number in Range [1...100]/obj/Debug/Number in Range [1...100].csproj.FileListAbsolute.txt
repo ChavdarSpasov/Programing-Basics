@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number in Range [1...100]\bin\Debug\Number_in_Range__1._._._100_.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number in Range [1...100]\bin\Debug\Number_in_Range__1._._._100_.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number in Range [1...100]\bin\Debug\Number_in_Range__1._._._100_.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number in Range [1...100]\obj\Debug\Number in Range [1...100].csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number in Range [1...100]\obj\Debug\Number_in_Range__1._._._100_.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number in Range [1...100]\obj\Debug\Number_in_Range__1._._._100_.pdb

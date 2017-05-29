@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM  Hotel room\bin\Debug\EXAM  Hotel room.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM  Hotel room\bin\Debug\EXAM  Hotel room.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM  Hotel room\bin\Debug\EXAM  Hotel room.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM  Hotel room\obj\Debug\EXAM  Hotel room.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM  Hotel room\obj\Debug\EXAM  Hotel room.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM  Hotel room\obj\Debug\EXAM  Hotel room.pdb

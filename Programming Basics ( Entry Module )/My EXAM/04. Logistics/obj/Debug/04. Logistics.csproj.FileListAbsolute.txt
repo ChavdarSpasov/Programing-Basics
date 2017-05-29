@@ -1,0 +1,12 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\04. Logistics\bin\Debug\_04.Logistics.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\04. Logistics\bin\Debug\_04.Logistics.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\04. Logistics\bin\Debug\_04.Logistics.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\04. Logistics\obj\Debug\04. Logistics.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\04. Logistics\obj\Debug\_04.Logistics.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\04. Logistics\obj\Debug\_04.Logistics.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\04. Logistics\bin\Debug\_04.Logistics.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\04. Logistics\obj\Debug\_04.Logistics.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\04. Logistics\obj\Debug\_04.Logistics.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\04. Logistics\bin\Debug\_04.Logistics.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\04. Logistics\bin\Debug\_04.Logistics.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\04. Logistics\obj\Debug\04. Logistics.csprojResolveAssemblyReference.cache

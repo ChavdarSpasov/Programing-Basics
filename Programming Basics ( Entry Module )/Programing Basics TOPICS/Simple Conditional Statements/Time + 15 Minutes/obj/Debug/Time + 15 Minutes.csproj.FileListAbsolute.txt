@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

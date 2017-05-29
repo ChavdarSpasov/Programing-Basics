@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.pdb

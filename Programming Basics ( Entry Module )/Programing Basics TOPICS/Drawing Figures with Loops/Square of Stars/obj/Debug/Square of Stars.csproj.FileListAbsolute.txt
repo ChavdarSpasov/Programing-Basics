@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Triangle of 55 Stars\bin\Debug\Triangle of 55 Stars.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Triangle of 55 Stars\obj\Debug\Triangle of 55 Stars.pdb

@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 05. Christmas Hat\bin\Debug\Problem_05.Christmas_Hat.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 05. Christmas Hat\obj\Debug\Problem 05. Christmas Hat.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 05. Christmas Hat\obj\Debug\Problem_05.Christmas_Hat.pdb

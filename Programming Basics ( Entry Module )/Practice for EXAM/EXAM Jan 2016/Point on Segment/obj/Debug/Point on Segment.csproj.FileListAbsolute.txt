@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point on Segment\bin\Debug\Point on Segment.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point on Segment\bin\Debug\Point on Segment.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point on Segment\bin\Debug\Point on Segment.pdb
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point on Segment\obj\Debug\Point on Segment.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point on Segment\obj\Debug\Point on Segment.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\Point on Segment\obj\Debug\Point on Segment.pdb

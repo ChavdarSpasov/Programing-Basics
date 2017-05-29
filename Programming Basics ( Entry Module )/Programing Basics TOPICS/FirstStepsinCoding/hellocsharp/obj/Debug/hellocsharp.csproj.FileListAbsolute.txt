@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\FirstStepsinCoding\hellocsharp\bin\Debug\hellocsharp.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\FirstStepsinCoding\hellocsharp\bin\Debug\hellocsharp.exe
+d:\chavdar\documents\visual studio 2015\Projects\FirstStepsinCoding\hellocsharp\bin\Debug\hellocsharp.pdb
+d:\chavdar\documents\visual studio 2015\Projects\FirstStepsinCoding\hellocsharp\obj\Debug\hellocsharp.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\FirstStepsinCoding\hellocsharp\obj\Debug\hellocsharp.exe
+d:\chavdar\documents\visual studio 2015\Projects\FirstStepsinCoding\hellocsharp\obj\Debug\hellocsharp.pdb

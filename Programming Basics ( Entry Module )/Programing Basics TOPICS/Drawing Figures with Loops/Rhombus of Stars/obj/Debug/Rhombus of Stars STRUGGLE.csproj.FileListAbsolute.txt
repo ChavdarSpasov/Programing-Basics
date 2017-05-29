@@ -1,0 +1,5 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Rhombus of Stars\bin\Debug\Rhombus of Stars.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Drawing Figures with Loops\Rhombus of Stars\obj\Debug\Rhombus of Stars.pdb

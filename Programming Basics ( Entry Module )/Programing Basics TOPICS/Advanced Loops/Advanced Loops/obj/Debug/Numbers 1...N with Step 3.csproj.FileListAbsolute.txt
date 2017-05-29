@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Advanced Loops\obj\Debug\Numbers 1...N with Step 3.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Advanced Loops\bin\Debug\Advanced Loops.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Advanced Loops\bin\Debug\Advanced Loops.exe
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Advanced Loops\bin\Debug\Advanced Loops.pdb
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Advanced Loops\obj\Debug\Advanced Loops.exe
+d:\chavdar\documents\visual studio 2015\Projects\Advanced Loops\Advanced Loops\obj\Debug\Advanced Loops.pdb

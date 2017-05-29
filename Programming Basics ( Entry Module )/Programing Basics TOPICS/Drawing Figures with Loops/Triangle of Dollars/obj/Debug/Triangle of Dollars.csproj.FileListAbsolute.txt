@@ -1,0 +1,5 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb

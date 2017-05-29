@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent Result\bin\Debug\Excellent Result.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent Result\bin\Debug\Excellent Result.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent Result\bin\Debug\Excellent Result.pdb
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent Result\obj\Debug\Excellent Result.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent Result\obj\Debug\Excellent Result.exe
+d:\chavdar\documents\visual studio 2015\Projects\Simple Conditional Statements\Excellent Result\obj\Debug\Excellent Result.pdb

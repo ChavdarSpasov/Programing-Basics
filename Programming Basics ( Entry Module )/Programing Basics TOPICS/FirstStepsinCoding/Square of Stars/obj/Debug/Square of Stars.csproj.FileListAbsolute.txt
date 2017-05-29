@@ -1,0 +1,5 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Square of Stars\bin\Debug\Square of Stars.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Square of Stars\bin\Debug\Square of Stars.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Square of Stars\bin\Debug\Square of Stars.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Square of Stars\obj\Debug\Square of Stars.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\FirstStepsinCoding\Square of Stars\obj\Debug\Square of Stars.pdb

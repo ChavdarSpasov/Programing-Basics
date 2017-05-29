@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Pyramid\bin\Debug\Number Pyramid.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Pyramid\bin\Debug\Number Pyramid.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Pyramid\bin\Debug\Number Pyramid.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Pyramid\obj\Debug\Number Pyramid.csprojResolveAssemblyReference.cache
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Pyramid\obj\Debug\Number Pyramid.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Advanced Loops\Number Pyramid\obj\Debug\Number Pyramid.pdb

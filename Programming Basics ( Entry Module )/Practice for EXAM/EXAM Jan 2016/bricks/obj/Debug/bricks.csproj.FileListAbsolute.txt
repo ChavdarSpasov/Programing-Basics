@@ -1,0 +1,6 @@
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\bricks\bin\Debug\bricks.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\bricks\bin\Debug\bricks.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\bricks\bin\Debug\bricks.pdb
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\bricks\obj\Debug\bricks.csprojResolveAssemblyReference.cache
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\bricks\obj\Debug\bricks.exe
+d:\chavdar\documents\visual studio 2015\Projects\PrakticeforEXAM Jan 2016\bricks\obj\Debug\bricks.pdb

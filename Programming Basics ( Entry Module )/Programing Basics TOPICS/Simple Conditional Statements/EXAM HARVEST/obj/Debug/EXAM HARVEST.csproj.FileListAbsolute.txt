@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM HARVEST\bin\Debug\EXAM HARVEST.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM HARVEST\bin\Debug\EXAM HARVEST.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM HARVEST\bin\Debug\EXAM HARVEST.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM HARVEST\obj\Debug\EXAM HARVEST.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM HARVEST\obj\Debug\EXAM HARVEST.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM HARVEST\obj\Debug\EXAM HARVEST.pdb

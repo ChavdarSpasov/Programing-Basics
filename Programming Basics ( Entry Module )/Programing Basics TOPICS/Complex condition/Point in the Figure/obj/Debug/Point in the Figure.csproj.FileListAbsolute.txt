@@ -1,0 +1,6 @@
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in the Figure\bin\Debug\Point in the Figure.exe.config
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in the Figure\bin\Debug\Point in the Figure.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in the Figure\bin\Debug\Point in the Figure.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in the Figure\obj\Debug\Point in the Figure.exe
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in the Figure\obj\Debug\Point in the Figure.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\Complex condition\Point in the Figure\obj\Debug\Point in the Figure.csprojResolveAssemblyReference.cache

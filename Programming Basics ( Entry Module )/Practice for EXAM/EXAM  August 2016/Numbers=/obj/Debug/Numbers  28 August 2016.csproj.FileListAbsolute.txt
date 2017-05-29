@@ -1,0 +1,5 @@
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Numbers=\bin\Debug\Numbers=.exe.config
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Numbers=\obj\Debug\Numbers=.exe
+d:\chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Numbers=\obj\Debug\Numbers=.pdb
+D:\Chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Numbers=\bin\Debug\Numbers=.exe
+D:\Chavdar\documents\visual studio 2015\Projects\PracticeforEXAM\Numbers=\bin\Debug\Numbers=.pdb

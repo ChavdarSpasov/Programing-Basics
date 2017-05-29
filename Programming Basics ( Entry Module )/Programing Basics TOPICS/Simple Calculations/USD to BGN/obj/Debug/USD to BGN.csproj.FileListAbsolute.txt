@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\USD to BGN\bin\Debug\USD to BGN.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\USD to BGN\bin\Debug\USD to BGN.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\USD to BGN\bin\Debug\USD to BGN.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\USD to BGN\obj\Debug\USD to BGN.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\USD to BGN\obj\Debug\USD to BGN.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Calculations\USD to BGN\obj\Debug\USD to BGN.pdb

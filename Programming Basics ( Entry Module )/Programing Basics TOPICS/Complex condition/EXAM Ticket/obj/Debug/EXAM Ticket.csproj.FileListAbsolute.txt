@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM Ticket\bin\Debug\EXAM Ticket.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM Ticket\bin\Debug\EXAM Ticket.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM Ticket\bin\Debug\EXAM Ticket.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM Ticket\obj\Debug\EXAM Ticket.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM Ticket\obj\Debug\EXAM Ticket.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Complex condition\EXAM Ticket\obj\Debug\EXAM Ticket.pdb

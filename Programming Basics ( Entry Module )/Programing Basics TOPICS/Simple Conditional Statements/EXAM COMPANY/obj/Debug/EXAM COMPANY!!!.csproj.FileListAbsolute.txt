@@ -1,0 +1,3 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM COMPANY\bin\Debug\EXAM COMPANY.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM COMPANY\obj\Debug\EXAM COMPANY.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Simple Conditional Statements\EXAM COMPANY\obj\Debug\EXAM COMPANY.pdb

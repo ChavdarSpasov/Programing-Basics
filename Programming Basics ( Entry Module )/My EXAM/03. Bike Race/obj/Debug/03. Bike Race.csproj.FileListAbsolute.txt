@@ -1,0 +1,9 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\exam\ConsoleApplication3\obj\Debug\03. Bike Race.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\03. Bike Race\bin\Debug\ConsoleApplication3.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\03. Bike Race\obj\Debug\ConsoleApplication3.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\My EXAM\03. Bike Race\obj\Debug\ConsoleApplication3.pdb

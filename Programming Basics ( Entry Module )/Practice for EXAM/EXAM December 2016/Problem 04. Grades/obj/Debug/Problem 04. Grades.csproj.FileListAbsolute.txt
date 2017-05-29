@@ -1,0 +1,6 @@
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe.config
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 04. Grades\bin\Debug\Problem_04.Grades.pdb
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 04. Grades\obj\Debug\Problem 04. Grades.csprojResolveAssemblyReference.cache
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.exe
+D:\Chavdar\Documents\Visual Studio 2015\Projects\Programming Basics ( Entry Module )\Practice for EXAM\EXAM December 2016\Problem 04. Grades\obj\Debug\Problem_04.Grades.pdb
